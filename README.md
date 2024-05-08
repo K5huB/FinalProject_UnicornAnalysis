@@ -1,1 +1,1 @@
-Mission: Analyze the data in a data frame containing information on Unicorn companies to investigate any trends between certain data frame columns or determine commonalities amongst specific companies
+Mission: Analyze a data frame containing information on Unicorn companies to investigate any trends between certain column data, or determine commonalities amongst specific companies
